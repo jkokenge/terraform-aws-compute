@@ -1,4 +1,4 @@
-variable "aws_regions" {}
+variable "aws_region" {}
 variable "instance_count" {
   default = 1
 }
